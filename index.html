@@ -1,0 +1,124 @@
+<html lang="en">
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>eDNA Map</title>
+
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.css" rel="stylesheet" />
+
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { width: 100%; height: 100vh; }
+
+    #legend {
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+  background: white;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.3);
+  z-index: 9999;
+}
+
+#legend h4 {
+  margin: 0 0 6px 0;
+  font-size: 14px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+}
+
+.legend-color {
+  width: 12px;
+  height: 12px;
+  background-color: #dc143c; /* same red as your points */
+  border-radius: 50%;
+  margin-right: 8px;
+}
+  </style>
+</head>
+
+<body>
+<div id="map"></div>
+<div id="legend">
+  <h4>Legend</h4>
+
+  <div class="legend-item">
+    <span class="legend-color"></span>
+    <span>eDNA sampling site</span>
+  </div>
+</div>
+
+<script>
+
+mapboxgl.accessToken = 'pk.eyJ1IjoidG9uZWNvb3BzIiwiYSI6ImNtb20ybmN1ZzBxN3oycXE5emI5enk2aHoifQ.6i5Azrr725JC1RboXE4B1Q';
+
+const map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/tonecoops/cmoql5fhd006q01rg3fye1xgm',
+  center: [147, -40],
+  zoom: 4
+});
+
+map.on('load', () => {
+
+  // 🔹 Load your GeoJSON
+  fetch('eDNA_sites_may.geojson')
+    .then(res => res.json())
+    .then(data => {
+
+      map.addSource('sites', {
+        type: 'geojson',
+        data: data
+      });
+
+      // 🔹 Add pins (circles for now)
+      map.addLayer({
+        id: 'sites-layer',
+        type: 'circle',
+        source: 'sites',
+        paint: {
+          'circle-radius': 6,
+          'circle-color': '#dc143c'
+        }
+      });
+
+      // 🔹 Popups
+      map.on('click', 'sites-layer', (e) => {
+        const props = e.features[0].properties;
+
+        new mapboxgl.Popup()
+          .setLngLat(e.lngLat)
+          .setHTML(`
+            <h3>${props.site_name}</h3>
+            <p><b>Code:</b> ${props.site_code}</p>
+            <p><b>Location:</b> ${props.location}</p>
+            <p><b>MPA:</b> ${props.mpa}</p>
+            <p><b>Protection:</b> ${props.protection_status}</p>
+          `)
+          .addTo(map);
+      });
+
+      // 🔹 Cursor change
+      map.on('mouseenter', 'sites-layer', () => {
+        map.getCanvas().style.cursor = 'pointer';
+      });
+
+      map.on('mouseleave', 'sites-layer', () => {
+        map.getCanvas().style.cursor = '';
+      });
+
+    });
+
+});
+
+</script>
+</body>
+</html>
