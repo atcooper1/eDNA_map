@@ -98,10 +98,12 @@ map.on('load', () => {
           .setLngLat(e.lngLat)
           .setHTML(`
             <h3>${props.site_name}</h3>
-            <p><b>Code:</b> ${props.site_code}</p>
-            <p><b>Location:</b> ${props.location}</p>
-            <p><b>MPA:</b> ${props.mpa}</p>
+            <p><b>Site Code:</b> ${props.site_code}</p>
+            <p><b>Marine Park:</b> ${props.mpa}</p>
             <p><b>Protection:</b> ${props.protection_status}</p>
+            <p><b>Latitude:</b> ${props.latitude}</p>
+            <p><b>Longitude:</b> ${props.longitude}</p>
+            <p><b>depth:</b> ${props.depth}</p>
           `)
           .addTo(map);
       });
