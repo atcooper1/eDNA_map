@@ -31,7 +31,7 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
 
   // 🔹 Load your GeoJSON
-  fetch('eDNA_sites.geojson')
+  fetch('eDNA_sites_may_update.geojson')
     .then(res => res.json())
     .then(data => {
 
