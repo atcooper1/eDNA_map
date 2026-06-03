@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>eDNA Map</title>
+  <title> RLSeDNA Map</title>
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.js"></script>
   <link href="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.css" rel="stylesheet" />
@@ -70,7 +70,7 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
 
   // 🔹 Load your GeoJSON
-  fetch('eDNA_sites_may_update.geojson')
+  fetch('eDNA_sites_june_update.geojson')
     .then(res => res.json())
     .then(data => {
 
