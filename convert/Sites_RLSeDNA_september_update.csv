@@ -1,0 +1,154 @@
+﻿site_code,site_name,location,area,mpa,protection_status,latitude,longitude,date,time,water_temp,depth
+KG-S7,Karatine Bay,Kent Group,TAS,Kent Group Marine Park,Restricted Take,-39.49496,147.33054,1/03/2026,3:50:00 PM,18,5.2
+KG-S7,Karatine Bay,Kent Group,TAS,Kent Group Marine Park,Restricted Take,-39.49496,147.33054,1/03/2026,3:50:00 PM,18,"5.2,5.3"
+KG-S7,Karatine Bay,Kent Group,TAS,Kent Group Marine Park,Restricted Take,-39.49496,147.33054,1/03/2026,3:50:00 PM,18,5.3
+KG-S4,Dover Island Isthmus,Kent Group,TAS,Kent Group Marine Park,No Take,-39.46457,147.29466,27/02/2026,5:25:00 PM,18,"5.2,5.3"
+KG-S4,Dover Island Isthmus,Kent Group,TAS,Kent Group Marine Park,No Take,-39.46457,147.29466,27/02/2026,5:25:00 PM,18,5.3
+KG-S4,Dover Island Isthmus,Kent Group,TAS,Kent Group Marine Park,No Take,-39.46457,147.29466,27/02/2026,5:25:00 PM,18,5.2
+KG-S15,"Squally Cove (Karatine Bay East, mid East Coast)",Kent Group,TAS,Kent Group Marine Park,Restricted Take,-39.49295,147.34215,28/02/2025,1:10:00 PM,17,5.3
+KG-S15,"Squally Cove (Karatine Bay East, mid East Coast)",Kent Group,TAS,Kent Group Marine Park,Restricted Take,-39.49295,147.34215,28/02/2025,1:10:00 PM,17,"5.2,5.3"
+KG-S15,"Squally Cove (Karatine Bay East, mid East Coast)",Kent Group,TAS,Kent Group Marine Park,Restricted Take,-39.49295,147.34215,28/02/2025,1:10:00 PM,17,5.2
+KG-S11,Deal Island (Murray Pass),Kent Group,TAS,Kent Group Marine Park,No Take,-39.46125,147.31422,26/02/2026,3:15:00 PM,17,5.3
+KG-S11,Deal Island (Murray Pass),Kent Group,TAS,Kent Group Marine Park,No Take,-39.46125,147.31422,26/02/2026,3:15:00 PM,17,"5.2,5.3"
+KG-S11,Deal Island (Murray Pass),Kent Group,TAS,Kent Group Marine Park,No Take,-39.46125,147.31422,26/02/2026,3:15:00 PM,17,5.2
+TAS372,"Cape Barren Light, 10m",Flinders Island,TAS,0,Fishing,-40.44126,148.45802,22/02/2026,10:40:00 AM,19,5.2
+TAS372,"Cape Barren Light, 10m",Flinders Island,TAS,0,Fishing,-40.44126,148.45802,22/02/2026,10:40:00 AM,19,"5.2,5.3"
+TAS372,"Cape Barren Light, 10m",Flinders Island,TAS,0,Fishing,-40.44126,148.45802,22/02/2026,10:40:00 AM,19,5.3
+TAS386,Babel Island  North,Flinders Island,TAS,0,Fishing,-39.94446,148.34029,,,,
+TAS386,Babel Island  North,Flinders Island,TAS,0,Fishing,-39.94446,148.34029,,,,
+TAS386,Babel Island  North,Flinders Island,TAS,0,Fishing,-39.94446,148.34029,,,,
+PPH-S11,Lonsdale Kelp Inner,Port Phillip Heads,VIC,Port Phillip Heads Marine National Park,No take multizoned,-38.28537,144.6275,20/03/2026,10:53:00 AM,19,5
+PPH-S11,Lonsdale Kelp Inner,Port Phillip Heads,VIC,Port Phillip Heads Marine National Park,No take multizoned,-38.28537,144.6275,20/03/2026,10:53:00 AM,19,
+PPH-S11,Lonsdale Kelp Inner,Port Phillip Heads,VIC,Port Phillip Heads Marine National Park,No take multizoned,-38.28537,144.6275,20/03/2026,10:53:00 AM,19,5.1
+PPH-S9,Lonsdale Kelp Outer,Port Phillip Heads,VIC,Port Phillip Heads Marine National Park,No take multizoned,-38.28637,144.62962,19/03/2026,10:20:00 AM,18,8
+PPH-S9,Lonsdale Kelp Outer,Port Phillip Heads,VIC,Port Phillip Heads Marine National Park,No take multizoned,-38.28637,144.62962,19/03/2026,10:20:00 AM,18,8
+PPH-S9,Lonsdale Kelp Outer,Port Phillip Heads,VIC,Port Phillip Heads Marine National Park,No take multizoned,-38.28637,144.62962,19/03/2026,10:20:00 AM,18,8
+PPH-S1,Point Franklin,Port Phillip Heads,VIC,0,Fishing,-38.3173,144.71725,19/03/2026,1:20:00 PM,19,3.5
+PPH-S1,Point Franklin,Port Phillip Heads,VIC,0,Fishing,-38.3173,144.71725,19/03/2026,1:20:00 PM,19,
+PPH-S1,Point Franklin,Port Phillip Heads,VIC,0,Fishing,-38.3173,144.71725,19/03/2026,1:20:00 PM,19,3.6
+GSV42,Rapid Head SZ Site2,Encounter,SA,Encounter Marine Park,No take multizoned,-35.52262,138.16309,12/02/2026,,,
+GSV42,Rapid Head SZ Site2,Encounter,SA,Encounter Marine Park,No take multizoned,-35.52262,138.16309,12/02/2026,,,
+GSV42,Rapid Head SZ Site2,Encounter,SA,Encounter Marine Park,No take multizoned,-35.52262,138.16309,12/02/2026,,,
+GSV41,Rapid Head East,Encounter,SA,Encounter Marine Park,Restricted take multizoned,-35.51946,138.17719,12/02/2026,,,
+GSV41,Rapid Head East,Encounter,SA,Encounter Marine Park,Restricted take multizoned,-35.51946,138.17719,12/02/2026,,,
+GSV41,Rapid Head East,Encounter,SA,Encounter Marine Park,Restricted take multizoned,-35.51946,138.17719,12/02/2026,,,
+GSV95,Lasseters Reef,Encounter,SA,Encounter Marine Park,Restricted take multizoned,-35.50838,138.21873,11/02/2026,,21,
+GSV95,Lasseters Reef,Encounter,SA,Encounter Marine Park,Restricted take multizoned,-35.50838,138.21873,11/02/2026,,21,
+GSV95,Lasseters Reef,Encounter,SA,Encounter Marine Park,Restricted take multizoned,-35.50838,138.21873,11/02/2026,,21,
+GSV2,Haycock Point,Encounter,SA,Encounter Marine Park,Fishing,-35.41506,138.32132,11/02/2026,,22,
+GSV2,Haycock Point,Encounter,SA,Encounter Marine Park,Fishing,-35.41506,138.32132,11/02/2026,,22,
+GSV2,Haycock Point,Encounter,SA,Encounter Marine Park,Fishing,-35.41506,138.32132,11/02/2026,,22,
+GSV2,Haycock Point,Encounter,SA,Encounter Marine Park,Fishing,-35.41506,138.32132,11/02/2026,,22,
+GSV2,Haycock Point,Encounter,SA,Encounter Marine Park,Fishing,-35.41506,138.32132,11/02/2026,,22,
+LHI13,Little Island,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.57082,159.06824,24/03/2026,10:30:00 AM,23,8
+LHI13,Little Island,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.57082,159.06824,24/03/2026,10:30:00 AM,23,8
+LHI13,Little Island,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.57082,159.06824,24/03/2026,10:30:00 AM,23,10
+LHI13,Little Island,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.57082,159.06824,24/03/2026,10:30:00 AM,23,10
+LHI27,Sylphs Hole,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.52032,159.05466,24/03/2026,2:15:00 PM,23,2
+LHI27,Sylphs Hole,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.52032,159.05466,24/03/2026,2:15:00 PM,23,"2,2.5"
+LHI27,Sylphs Hole,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.52032,159.05466,24/03/2026,2:15:00 PM,23,2.5
+LHI9,Ruperts Reef,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.49935,159.06494,26/03/2026,10:30:00 AM,23,14
+LHI9,Ruperts Reef,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.49935,159.06494,26/03/2026,10:30:00 AM,23,11
+LHI9,Ruperts Reef,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.49935,159.06494,26/03/2026,10:30:00 AM,23,14
+LHI9,Ruperts Reef,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.49935,159.06494,26/03/2026,10:30:00 AM,23,11
+LHI23,Boat Harbour NW,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.55782,159.09852,30/03/2026,2:00:00 PM,23,6.5
+LHI23,Boat Harbour NW,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.55782,159.09852,30/03/2026,2:00:00 PM,23,6.5/7.5
+LHI23,Boat Harbour NW,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.55782,159.09852,30/03/2026,2:00:00 PM,23,7.5
+LHI40,Horseshoe Reef,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.54252,159.06194,27/03/2026,12:15:00 PM,23,2
+LHI40,Horseshoe Reef,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.54252,159.06194,27/03/2026,12:15:00 PM,23,"2,2.5"
+LHI40,Horseshoe Reef,Lord Howe Island,NSW,Lord Howe Island Marine Park,No take multizoned,-31.54252,159.06194,27/03/2026,12:15:00 PM,23,2.5
+LHI28,Old Gulch,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.51293,159.0428,31/03/2026,11:00:00 AM,23,11
+LHI28,Old Gulch,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.51293,159.0428,31/03/2026,11:00:00 AM,23,6
+LHI28,Old Gulch,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.51293,159.0428,31/03/2026,11:00:00 AM,23,6
+LHI28,Old Gulch,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.51293,159.0428,31/03/2026,11:00:00 AM,23,11
+LHI18,Keyhole North,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.49747,159.06767,1/04/2026,10:00:00 AM,23,10
+LHI18,Keyhole North,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.49747,159.06767,1/04/2026,10:00:00 AM,23,12
+LHI18,Keyhole North,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.49747,159.06767,1/04/2026,10:00:00 AM,23,10.0/11.0
+LHI14,Algal Hole North,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.56235,159.06843,2/04/2026,9:30:00 AM,23,8.5
+LHI14,Algal Hole North,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.56235,159.06843,2/04/2026,9:30:00 AM,23,8.5/7.5
+LHI14,Algal Hole North,Lord Howe Island,NSW,Lord Howe Island Marine Park,Restricted take multizoned,-31.56235,159.06843,2/04/2026,9:30:00 AM,23,7.5
+LHI52,Sunken Rock,Lord Howe Island,NSW,Lord Howe Marine Park,No take multizoned,-31.81209,159.2853,4/04/2026,11:45:00 AM,22,10
+LHI52,Sunken Rock,Lord Howe Island,NSW,Lord Howe Marine Park,No take multizoned,-31.81209,159.2853,4/04/2026,11:45:00 AM,22,10
+LHI52,Sunken Rock,Lord Howe Island,NSW,Lord Howe Marine Park,No take multizoned,-31.81209,159.2853,4/04/2026,11:45:00 AM,22,15
+LHI52,Sunken Rock,Lord Howe Island,NSW,Lord Howe Marine Park,No take multizoned,-31.81209,159.2853,4/04/2026,11:45:00 AM,22,15
+BI-S5,Halfway Point,Bicheno,TAS,0,Fishing,-41.90329,148.31631,15/04/2026,,16,5.3
+BI-S5,Halfway Point,Bicheno,TAS,0,Fishing,-41.90329,148.31631,15/04/2026,,16,5.2&5.3
+BI-S5,Halfway Point,Bicheno,TAS,0,Fishing,-41.90329,148.31631,15/04/2026,,16,5.2
+BI-S3,Waubs Bay,Bicheno,TAS,0,Fishing,-41.86864,148.30344,17/04/2026,,16,10.2
+BI-S3,Waubs Bay,Bicheno,TAS,0,Fishing,-41.86864,148.30344,18/04/2026,,16,10.2&10.3
+BI-S3,Waubs Bay,Bicheno,TAS,0,Fishing,-41.86864,148.30344,19/04/2026,,16,10.2
+PPB15,Ricketts Pt,Port Phillip Bay,VIC,Ricketts Point Marine Sanctuary,Fishing,-37.99492,145.02939,27/04/2026,12:15:00 PM,17,3
+PPB15,Ricketts Pt,Port Phillip Bay,VIC,Ricketts Point Marine Sanctuary,Fishing,-37.99492,145.02939,27/04/2026,12:15:00 PM,17,
+PPB15,Ricketts Pt,Port Phillip Bay,VIC,Ricketts Point Marine Sanctuary,Fishing,-37.99492,145.02939,27/04/2026,12:15:00 PM,17,3.6
+JBMP-S1,Captains Pt,Jervis Bay,NSW,Booderee National Park,Restricted take multizoned,-35.12097,150.70789,1/05/2026,12:30:00 PM,21,5.1
+JBMP-S1,Captains Pt,Jervis Bay,NSW,Booderee National Park,Restricted take multizoned,-35.12097,150.70789,1/05/2026,12:30:00 PM,21,
+JBMP-S1,Captains Pt,Jervis Bay,NSW,Booderee National Park,Restricted take multizoned,-35.12097,150.70789,1/05/2026,12:30:00 PM,21,5.2
+JBMP-S4,The Docks 3 North Black Boat Cove,Jervis Bay,NSW,Jervis Bay Marine Park,No take multizoned,-35.07768,150.79224,2/05/2026,12:30:00 PM,21,5
+JBMP-S4,The Docks 3 North Black Boat Cove,Jervis Bay,NSW,Jervis Bay Marine Park,No take multizoned,-35.07768,150.79224,2/05/2026,12:30:00 PM,21,
+JBMP-S4,The Docks 3 North Black Boat Cove,Jervis Bay,NSW,Jervis Bay Marine Park,No take multizoned,-35.07768,150.79224,2/05/2026,12:30:00 PM,21,5.1
+JBMP-S14,GREEN POINT (GREEN ISLAND),Jervis Bay,NSW,Jervis Bay Marine Park,No take multizoned,-35.0162,150.76486,3/05/2026,1:00:00 PM,20,5
+JBMP-S14,GREEN POINT (GREEN ISLAND),Jervis Bay,NSW,Jervis Bay Marine Park,No take multizoned,-35.0162,150.76486,3/05/2026,1:00:00 PM,20,
+JBMP-S14,GREEN POINT (GREEN ISLAND),Jervis Bay,NSW,Jervis Bay Marine Park,No take multizoned,-35.0162,150.76486,3/05/2026,1:00:00 PM,20,5.1
+JBMP-S26,Outer Tubes,Jervis Bay,NSW,Jervis Bay Marine Park,Habitat Protection,-35.08773,150.79898,4/05/2026,10:00:00 AM,20,5.3
+JBMP-S26,Outer Tubes,Jervis Bay,NSW,Jervis Bay Marine Park,Habitat Protection,-35.08773,150.79898,4/05/2026,10:00:00 AM,20,
+JBMP-S26,Outer Tubes,Jervis Bay,NSW,Jervis Bay Marine Park,Habitat Protection,-35.08773,150.79898,4/05/2026,10:00:00 AM,20,5.2
+GBR53,Salamander Reef,GBR - North,QLD,Great Barrier Reef MP,No take multizoned,-11.76571,143.65005,9/11/2026,,,
+NT63,Arafura Shoal,Carpentaria,NT,Arafura MP,Fishing,-11.22819996,134.7462769,16/11/2025,,,
+NT22,Money Shoal E,Arafura,NT,Arafura MP,Restricted take multizoned,-10.32259,132.71216,2/12/2025,,,
+OS7,Marie Shoal,Oceanic Shoals,QLD,Oceanic Shoals MP,Habitat Protection,-10.89127,130.0992,29/11/2025,,,
+TS7,Seven Reefs east,Torres Strait,QLD,0,Fishing,-10.28793,143.71759,14/12/2025,,,
+GC15,Proudfoot Shoal,West Cape York,QLD,0,Fishing,-10.52637,141.47088,12/12/2025,,,
+RI23,Roe Reef,Rottnest Island,WA,Rottnest Island Marine Reserve,Restricted take multizoned,-31.97427,115.53757,5/09/2026,4:21:00 PM,20,9
+RI23,Roe Reef,Rottnest Island,WA,Rottnest Island Marine Reserve,Restricted take multizoned,-31.97427,115.53757,5/09/2026,4:21:00 PM,20,"9,10"
+RI23,Roe Reef,Rottnest Island,WA,Rottnest Island Marine Reserve,Restricted take multizoned,-31.97427,115.53757,5/09/2026,4:21:00 PM,20,10
+RI1,Green Island,Rottnest Island,WA,Rottnest Island Marine Reserve,No take multizoned,-32.01725,115.50014,5/10/2026,1:21:00 PM,21,5
+RI1,Green Island,Rottnest Island,WA,Rottnest Island Marine Reserve,No take multizoned,-32.01725,115.50014,5/10/2026,1:21:00 PM,21,"5,6.5"
+RI1,Green Island,Rottnest Island,WA,Rottnest Island Marine Reserve,No take multizoned,-32.01725,115.50014,5/10/2026,1:21:00 PM,21,6.5
+RI6,Pocillopora Reef,Rottnest Island,WA,Rottnest Island Marine Reserve,No take multizoned,-32.02575,115.52968,5/11/2026,1:05:00 PM,20,3
+RI6,Pocillopora Reef,Rottnest Island,WA,Rottnest Island Marine Reserve,No take multizoned,-32.02575,115.52968,5/11/2026,1:05:00 PM,20,"3,2.5"
+RI6,Pocillopora Reef,Rottnest Island,WA,Rottnest Island Marine Reserve,No take multizoned,-32.02575,115.52968,5/11/2026,1:05:00 PM,20,2.5
+NMP2,Point Maud Inner,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12142,113.75562,46239,12:30:00 PM,23,1.8
+NMP2,Point Maud Inner,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12142,113.75562,46239,12:30:00 PM,23,
+NMP2,Point Maud Inner,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12142,113.75562,46239,12:30:00 PM,23,2.9
+NMP11,Maud RZ2,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.20838,113.76328,46240,12:30:00 PM,23,5.5
+NMP11,Maud RZ2,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.20838,113.76328,46240,12:30:00 PM,23,
+NMP11,Maud RZ2,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.20838,113.76328,46240,12:30:00 PM,23,6.8
+NMP11,Maud RZ2,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.20838,113.76328,46240,12:30:00 PM,23,5.5
+NMP11,Maud RZ2,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.20838,113.76328,46240,12:30:00 PM,23,
+NMP11,Maud RZ2,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.20838,113.76328,46240,12:30:00 PM,23,6.8
+NMP21,Coral Bay (Sanctuary zone),Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.14221,113.76709,46241,12:30:00 PM,22,1
+NMP21,Coral Bay (Sanctuary zone),Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.14221,113.76709,46241,12:30:00 PM,22,
+NMP21,Coral Bay (Sanctuary zone),Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.14221,113.76709,46241,12:30:00 PM,22,1.2
+NMP21,Coral Bay (Sanctuary zone),Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.14221,113.76709,46241,12:30:00 PM,22,1
+NMP21,Coral Bay (Sanctuary zone),Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.14221,113.76709,46241,12:30:00 PM,22,
+NMP21,Coral Bay (Sanctuary zone),Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.14221,113.76709,46241,12:30:00 PM,22,1.2
+NWS157,North Muiron Island NE,Exmouth,WA,Ningaloo Marine Park,No Take,-21.63678,114.39077,46244,1:00:00 PM,22,
+NWS157,North Muiron Island NE,Exmouth,WA,Ningaloo Marine Park,No Take,-21.63678,114.39077,46244,1:00:00 PM,22,
+NWS157,North Muiron Island NE,Exmouth,WA,Ningaloo Marine Park,No Take,-21.63678,114.39077,46244,1:00:00 PM,22,
+NWS157,North Muiron Island NE,Exmouth,WA,Ningaloo Marine Park,No Take,-21.63678,114.39077,46244,1:00:00 PM,22,
+NWS157,North Muiron Island NE,Exmouth,WA,Ningaloo Marine Park,No Take,-21.63678,114.39077,46244,1:00:00 PM,22,
+NWS157,North Muiron Island NE,Exmouth,WA,Ningaloo Marine Park,No Take,-21.63678,114.39077,46244,1:00:00 PM,22,
+NMP22,Turquoise Bay (Sanctuary zone),Ningaloo Reef - North,WA,Ningaloo Marine Park,No Take,-22.09786,113.88472,46245,10:00:00 AM,22,
+NMP22,Turquoise Bay (Sanctuary zone),Ningaloo Reef - North,WA,Ningaloo Marine Park,No Take,-22.09786,113.88472,46245,10:00:00 AM,22,
+NMP22,Turquoise Bay (Sanctuary zone),Ningaloo Reef - North,WA,Ningaloo Marine Park,No Take,-22.09786,113.88472,46245,10:00:00 AM,22,
+NMP22,Turquoise Bay (Sanctuary zone),Ningaloo Reef - North,WA,Ningaloo Marine Park,No Take,-22.09786,113.88472,46245,10:00:00 AM,22,
+NMP22,Turquoise Bay (Sanctuary zone),Ningaloo Reef - North,WA,Ningaloo Marine Park,No Take,-22.09786,113.88472,46245,10:00:00 AM,22,
+NMP22,Turquoise Bay (Sanctuary zone),Ningaloo Reef - North,WA,Ningaloo Marine Park,No Take,-22.09786,113.88472,46245,10:00:00 AM,22,
+NMP-B5,Sth Bundegi,Exmouth,WA,Ningaloo Marine Park,No Take,-21.86971,114.15813,46247,9:30:00 AM,20,4
+NMP-B5,Sth Bundegi,Exmouth,WA,Ningaloo Marine Park,No Take,-21.86971,114.15813,46247,9:30:00 AM,20,4
+NMP-B5,Sth Bundegi,Exmouth,WA,Ningaloo Marine Park,No Take,-21.86971,114.15813,46247,9:30:00 AM,20,4
+NMP-B5,Sth Bundegi,Exmouth,WA,Ningaloo Marine Park,No Take,-21.86971,114.15813,46247,9:30:00 AM,20,4
+NMP-B5,Sth Bundegi,Exmouth,WA,Ningaloo Marine Park,No Take,-21.86971,114.15813,46247,9:30:00 AM,20,4
+NMP-B5,Sth Bundegi,Exmouth,WA,Ningaloo Marine Park,No Take,-21.86971,114.15813,46247,9:30:00 AM,20,4
+NMP-S3,Coral Bay DEC1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12872,113.75232,46236,12:00:00 PM,21,6&6.5
+NMP-S3,Coral Bay DEC1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12872,113.75232,46236,12:00:00 PM,21,6.5
+NMP-S3,Coral Bay DEC1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12872,113.75232,46236,12:00:00 PM,21,6
+NMP-S3,Coral Bay DEC1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12872,113.75232,46236,12:00:00 PM,21,6&6.5
+NMP-S3,Coral Bay DEC1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12872,113.75232,46236,12:00:00 PM,21,6.5
+NMP-S3,Coral Bay DEC1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12872,113.75232,46236,12:00:00 PM,21,6
+NMP9,Bills Bay 1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12627,113.76158,46237,12:00:00 PM,22,2.9
+NMP9,Bills Bay 1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12627,113.76158,46237,12:00:00 PM,22,2.9&3.1
+NMP9,Bills Bay 1,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.12627,113.76158,46237,12:00:00 PM,22,3.1
+NMP19,Maud SZ Nth,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.09197,113.73966,46238,1:00:00 PM,23,2.6
+NMP19,Maud SZ Nth,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.09197,113.73966,46238,1:00:00 PM,23,2.6&2.3
+NMP19,Maud SZ Nth,Ningaloo Reef,WA,Ningaloo Marine Park,No Take,-23.09197,113.73966,46238,1:00:00 PM,23,2.3
