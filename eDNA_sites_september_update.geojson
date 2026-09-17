@@ -1,0 +1,3371 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33054,
+          -39.49496
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S7",
+        "site_name": "Karatine Bay",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "Restricted Take",
+        "date": "1/03/2026",
+        "time": "3:50:00 PM",
+        "water_temp": 18.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33054,
+          -39.49496
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S7",
+        "site_name": "Karatine Bay",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "Restricted Take",
+        "date": "1/03/2026",
+        "time": "3:50:00 PM",
+        "water_temp": 18.0,
+        "depth": "5.2,5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33054,
+          -39.49496
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S7",
+        "site_name": "Karatine Bay",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "Restricted Take",
+        "date": "1/03/2026",
+        "time": "3:50:00 PM",
+        "water_temp": 18.0,
+        "depth": "5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29466,
+          -39.46457
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S4",
+        "site_name": "Dover Island Isthmus",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "No Take",
+        "date": "27/02/2026",
+        "time": "5:25:00 PM",
+        "water_temp": 18.0,
+        "depth": "5.2,5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29466,
+          -39.46457
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S4",
+        "site_name": "Dover Island Isthmus",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "No Take",
+        "date": "27/02/2026",
+        "time": "5:25:00 PM",
+        "water_temp": 18.0,
+        "depth": "5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29466,
+          -39.46457
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S4",
+        "site_name": "Dover Island Isthmus",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "No Take",
+        "date": "27/02/2026",
+        "time": "5:25:00 PM",
+        "water_temp": 18.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34215,
+          -39.49295
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S15",
+        "site_name": "Squally Cove (Karatine Bay East, mid East Coast)",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "Restricted Take",
+        "date": "28/02/2025",
+        "time": "1:10:00 PM",
+        "water_temp": 17.0,
+        "depth": "5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34215,
+          -39.49295
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S15",
+        "site_name": "Squally Cove (Karatine Bay East, mid East Coast)",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "Restricted Take",
+        "date": "28/02/2025",
+        "time": "1:10:00 PM",
+        "water_temp": 17.0,
+        "depth": "5.2,5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34215,
+          -39.49295
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S15",
+        "site_name": "Squally Cove (Karatine Bay East, mid East Coast)",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "Restricted Take",
+        "date": "28/02/2025",
+        "time": "1:10:00 PM",
+        "water_temp": 17.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.31422,
+          -39.46125
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S11",
+        "site_name": "Deal Island (Murray Pass)",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "No Take",
+        "date": "26/02/2026",
+        "time": "3:15:00 PM",
+        "water_temp": 17.0,
+        "depth": "5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.31422,
+          -39.46125
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S11",
+        "site_name": "Deal Island (Murray Pass)",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "No Take",
+        "date": "26/02/2026",
+        "time": "3:15:00 PM",
+        "water_temp": 17.0,
+        "depth": "5.2,5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.31422,
+          -39.46125
+        ]
+      },
+      "properties": {
+        "site_code": "KG-S11",
+        "site_name": "Deal Island (Murray Pass)",
+        "location": "Kent Group",
+        "area": "TAS",
+        "mpa": "Kent Group Marine Park",
+        "protection_status": "No Take",
+        "date": "26/02/2026",
+        "time": "3:15:00 PM",
+        "water_temp": 17.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45802,
+          -40.44126
+        ]
+      },
+      "properties": {
+        "site_code": "TAS372",
+        "site_name": "Cape Barren Light, 10m",
+        "location": "Flinders Island",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "22/02/2026",
+        "time": "10:40:00 AM",
+        "water_temp": 19.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45802,
+          -40.44126
+        ]
+      },
+      "properties": {
+        "site_code": "TAS372",
+        "site_name": "Cape Barren Light, 10m",
+        "location": "Flinders Island",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "22/02/2026",
+        "time": "10:40:00 AM",
+        "water_temp": 19.0,
+        "depth": "5.2,5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45802,
+          -40.44126
+        ]
+      },
+      "properties": {
+        "site_code": "TAS372",
+        "site_name": "Cape Barren Light, 10m",
+        "location": "Flinders Island",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "22/02/2026",
+        "time": "10:40:00 AM",
+        "water_temp": 19.0,
+        "depth": "5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.34029,
+          -39.94446
+        ]
+      },
+      "properties": {
+        "site_code": "TAS386",
+        "site_name": "Babel Island  North",
+        "location": "Flinders Island",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": null,
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.34029,
+          -39.94446
+        ]
+      },
+      "properties": {
+        "site_code": "TAS386",
+        "site_name": "Babel Island  North",
+        "location": "Flinders Island",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": null,
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.34029,
+          -39.94446
+        ]
+      },
+      "properties": {
+        "site_code": "TAS386",
+        "site_name": "Babel Island  North",
+        "location": "Flinders Island",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": null,
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6275,
+          -38.28537
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S11",
+        "site_name": "Lonsdale Kelp Inner",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "Port Phillip Heads Marine National Park",
+        "protection_status": "No take multizoned",
+        "date": "20/03/2026",
+        "time": "10:53:00 AM",
+        "water_temp": 19.0,
+        "depth": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6275,
+          -38.28537
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S11",
+        "site_name": "Lonsdale Kelp Inner",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "Port Phillip Heads Marine National Park",
+        "protection_status": "No take multizoned",
+        "date": "20/03/2026",
+        "time": "10:53:00 AM",
+        "water_temp": 19.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6275,
+          -38.28537
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S11",
+        "site_name": "Lonsdale Kelp Inner",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "Port Phillip Heads Marine National Park",
+        "protection_status": "No take multizoned",
+        "date": "20/03/2026",
+        "time": "10:53:00 AM",
+        "water_temp": 19.0,
+        "depth": "5.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62962,
+          -38.28637
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S9",
+        "site_name": "Lonsdale Kelp Outer",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "Port Phillip Heads Marine National Park",
+        "protection_status": "No take multizoned",
+        "date": "19/03/2026",
+        "time": "10:20:00 AM",
+        "water_temp": 18.0,
+        "depth": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62962,
+          -38.28637
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S9",
+        "site_name": "Lonsdale Kelp Outer",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "Port Phillip Heads Marine National Park",
+        "protection_status": "No take multizoned",
+        "date": "19/03/2026",
+        "time": "10:20:00 AM",
+        "water_temp": 18.0,
+        "depth": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62962,
+          -38.28637
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S9",
+        "site_name": "Lonsdale Kelp Outer",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "Port Phillip Heads Marine National Park",
+        "protection_status": "No take multizoned",
+        "date": "19/03/2026",
+        "time": "10:20:00 AM",
+        "water_temp": 18.0,
+        "depth": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71725,
+          -38.3173
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S1",
+        "site_name": "Point Franklin",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "19/03/2026",
+        "time": "1:20:00 PM",
+        "water_temp": 19.0,
+        "depth": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71725,
+          -38.3173
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S1",
+        "site_name": "Point Franklin",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "19/03/2026",
+        "time": "1:20:00 PM",
+        "water_temp": 19.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71725,
+          -38.3173
+        ]
+      },
+      "properties": {
+        "site_code": "PPH-S1",
+        "site_name": "Point Franklin",
+        "location": "Port Phillip Heads",
+        "area": "VIC",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "19/03/2026",
+        "time": "1:20:00 PM",
+        "water_temp": 19.0,
+        "depth": "3.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.16309,
+          -35.52262
+        ]
+      },
+      "properties": {
+        "site_code": "GSV42",
+        "site_name": "Rapid Head SZ Site2",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "12/02/2026",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.16309,
+          -35.52262
+        ]
+      },
+      "properties": {
+        "site_code": "GSV42",
+        "site_name": "Rapid Head SZ Site2",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "12/02/2026",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.16309,
+          -35.52262
+        ]
+      },
+      "properties": {
+        "site_code": "GSV42",
+        "site_name": "Rapid Head SZ Site2",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "12/02/2026",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.17719,
+          -35.51946
+        ]
+      },
+      "properties": {
+        "site_code": "GSV41",
+        "site_name": "Rapid Head East",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "12/02/2026",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.17719,
+          -35.51946
+        ]
+      },
+      "properties": {
+        "site_code": "GSV41",
+        "site_name": "Rapid Head East",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "12/02/2026",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.17719,
+          -35.51946
+        ]
+      },
+      "properties": {
+        "site_code": "GSV41",
+        "site_name": "Rapid Head East",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "12/02/2026",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.21873,
+          -35.50838
+        ]
+      },
+      "properties": {
+        "site_code": "GSV95",
+        "site_name": "Lasseters Reef",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 21.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.21873,
+          -35.50838
+        ]
+      },
+      "properties": {
+        "site_code": "GSV95",
+        "site_name": "Lasseters Reef",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 21.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.21873,
+          -35.50838
+        ]
+      },
+      "properties": {
+        "site_code": "GSV95",
+        "site_name": "Lasseters Reef",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 21.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.32132,
+          -35.41506
+        ]
+      },
+      "properties": {
+        "site_code": "GSV2",
+        "site_name": "Haycock Point",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Fishing",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.32132,
+          -35.41506
+        ]
+      },
+      "properties": {
+        "site_code": "GSV2",
+        "site_name": "Haycock Point",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Fishing",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.32132,
+          -35.41506
+        ]
+      },
+      "properties": {
+        "site_code": "GSV2",
+        "site_name": "Haycock Point",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Fishing",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.32132,
+          -35.41506
+        ]
+      },
+      "properties": {
+        "site_code": "GSV2",
+        "site_name": "Haycock Point",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Fishing",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.32132,
+          -35.41506
+        ]
+      },
+      "properties": {
+        "site_code": "GSV2",
+        "site_name": "Haycock Point",
+        "location": "Encounter",
+        "area": "SA",
+        "mpa": "Encounter Marine Park",
+        "protection_status": "Fishing",
+        "date": "11/02/2026",
+        "time": null,
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06824,
+          -31.57082
+        ]
+      },
+      "properties": {
+        "site_code": "LHI13",
+        "site_name": "Little Island",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "24/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06824,
+          -31.57082
+        ]
+      },
+      "properties": {
+        "site_code": "LHI13",
+        "site_name": "Little Island",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "24/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06824,
+          -31.57082
+        ]
+      },
+      "properties": {
+        "site_code": "LHI13",
+        "site_name": "Little Island",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "24/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06824,
+          -31.57082
+        ]
+      },
+      "properties": {
+        "site_code": "LHI13",
+        "site_name": "Little Island",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "24/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.05466,
+          -31.52032
+        ]
+      },
+      "properties": {
+        "site_code": "LHI27",
+        "site_name": "Sylphs Hole",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "24/03/2026",
+        "time": "2:15:00 PM",
+        "water_temp": 23.0,
+        "depth": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.05466,
+          -31.52032
+        ]
+      },
+      "properties": {
+        "site_code": "LHI27",
+        "site_name": "Sylphs Hole",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "24/03/2026",
+        "time": "2:15:00 PM",
+        "water_temp": 23.0,
+        "depth": "2,2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.05466,
+          -31.52032
+        ]
+      },
+      "properties": {
+        "site_code": "LHI27",
+        "site_name": "Sylphs Hole",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "24/03/2026",
+        "time": "2:15:00 PM",
+        "water_temp": 23.0,
+        "depth": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06494,
+          -31.49935
+        ]
+      },
+      "properties": {
+        "site_code": "LHI9",
+        "site_name": "Ruperts Reef",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "26/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06494,
+          -31.49935
+        ]
+      },
+      "properties": {
+        "site_code": "LHI9",
+        "site_name": "Ruperts Reef",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "26/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06494,
+          -31.49935
+        ]
+      },
+      "properties": {
+        "site_code": "LHI9",
+        "site_name": "Ruperts Reef",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "26/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06494,
+          -31.49935
+        ]
+      },
+      "properties": {
+        "site_code": "LHI9",
+        "site_name": "Ruperts Reef",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "26/03/2026",
+        "time": "10:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.09852,
+          -31.55782
+        ]
+      },
+      "properties": {
+        "site_code": "LHI23",
+        "site_name": "Boat Harbour NW",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "30/03/2026",
+        "time": "2:00:00 PM",
+        "water_temp": 23.0,
+        "depth": "6.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.09852,
+          -31.55782
+        ]
+      },
+      "properties": {
+        "site_code": "LHI23",
+        "site_name": "Boat Harbour NW",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "30/03/2026",
+        "time": "2:00:00 PM",
+        "water_temp": 23.0,
+        "depth": "6.5/7.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.09852,
+          -31.55782
+        ]
+      },
+      "properties": {
+        "site_code": "LHI23",
+        "site_name": "Boat Harbour NW",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "30/03/2026",
+        "time": "2:00:00 PM",
+        "water_temp": 23.0,
+        "depth": "7.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06194,
+          -31.54252
+        ]
+      },
+      "properties": {
+        "site_code": "LHI40",
+        "site_name": "Horseshoe Reef",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "27/03/2026",
+        "time": "12:15:00 PM",
+        "water_temp": 23.0,
+        "depth": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06194,
+          -31.54252
+        ]
+      },
+      "properties": {
+        "site_code": "LHI40",
+        "site_name": "Horseshoe Reef",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "27/03/2026",
+        "time": "12:15:00 PM",
+        "water_temp": 23.0,
+        "depth": "2,2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06194,
+          -31.54252
+        ]
+      },
+      "properties": {
+        "site_code": "LHI40",
+        "site_name": "Horseshoe Reef",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "27/03/2026",
+        "time": "12:15:00 PM",
+        "water_temp": 23.0,
+        "depth": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.0428,
+          -31.51293
+        ]
+      },
+      "properties": {
+        "site_code": "LHI28",
+        "site_name": "Old Gulch",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "31/03/2026",
+        "time": "11:00:00 AM",
+        "water_temp": 23.0,
+        "depth": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.0428,
+          -31.51293
+        ]
+      },
+      "properties": {
+        "site_code": "LHI28",
+        "site_name": "Old Gulch",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "31/03/2026",
+        "time": "11:00:00 AM",
+        "water_temp": 23.0,
+        "depth": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.0428,
+          -31.51293
+        ]
+      },
+      "properties": {
+        "site_code": "LHI28",
+        "site_name": "Old Gulch",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "31/03/2026",
+        "time": "11:00:00 AM",
+        "water_temp": 23.0,
+        "depth": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.0428,
+          -31.51293
+        ]
+      },
+      "properties": {
+        "site_code": "LHI28",
+        "site_name": "Old Gulch",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "31/03/2026",
+        "time": "11:00:00 AM",
+        "water_temp": 23.0,
+        "depth": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06767,
+          -31.49747
+        ]
+      },
+      "properties": {
+        "site_code": "LHI18",
+        "site_name": "Keyhole North",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "1/04/2026",
+        "time": "10:00:00 AM",
+        "water_temp": 23.0,
+        "depth": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06767,
+          -31.49747
+        ]
+      },
+      "properties": {
+        "site_code": "LHI18",
+        "site_name": "Keyhole North",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "1/04/2026",
+        "time": "10:00:00 AM",
+        "water_temp": 23.0,
+        "depth": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06767,
+          -31.49747
+        ]
+      },
+      "properties": {
+        "site_code": "LHI18",
+        "site_name": "Keyhole North",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "1/04/2026",
+        "time": "10:00:00 AM",
+        "water_temp": 23.0,
+        "depth": "10.0/11.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06843,
+          -31.56235
+        ]
+      },
+      "properties": {
+        "site_code": "LHI14",
+        "site_name": "Algal Hole North",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "2/04/2026",
+        "time": "9:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "8.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06843,
+          -31.56235
+        ]
+      },
+      "properties": {
+        "site_code": "LHI14",
+        "site_name": "Algal Hole North",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "2/04/2026",
+        "time": "9:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "8.5/7.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.06843,
+          -31.56235
+        ]
+      },
+      "properties": {
+        "site_code": "LHI14",
+        "site_name": "Algal Hole North",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Island Marine Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "2/04/2026",
+        "time": "9:30:00 AM",
+        "water_temp": 23.0,
+        "depth": "7.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.2853,
+          -31.81209
+        ]
+      },
+      "properties": {
+        "site_code": "LHI52",
+        "site_name": "Sunken Rock",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "4/04/2026",
+        "time": "11:45:00 AM",
+        "water_temp": 22.0,
+        "depth": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.2853,
+          -31.81209
+        ]
+      },
+      "properties": {
+        "site_code": "LHI52",
+        "site_name": "Sunken Rock",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "4/04/2026",
+        "time": "11:45:00 AM",
+        "water_temp": 22.0,
+        "depth": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.2853,
+          -31.81209
+        ]
+      },
+      "properties": {
+        "site_code": "LHI52",
+        "site_name": "Sunken Rock",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "4/04/2026",
+        "time": "11:45:00 AM",
+        "water_temp": 22.0,
+        "depth": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.2853,
+          -31.81209
+        ]
+      },
+      "properties": {
+        "site_code": "LHI52",
+        "site_name": "Sunken Rock",
+        "location": "Lord Howe Island",
+        "area": "NSW",
+        "mpa": "Lord Howe Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "4/04/2026",
+        "time": "11:45:00 AM",
+        "water_temp": 22.0,
+        "depth": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.31631,
+          -41.90329
+        ]
+      },
+      "properties": {
+        "site_code": "BI-S5",
+        "site_name": "Halfway Point",
+        "location": "Bicheno",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "15/04/2026",
+        "time": null,
+        "water_temp": 16.0,
+        "depth": "5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.31631,
+          -41.90329
+        ]
+      },
+      "properties": {
+        "site_code": "BI-S5",
+        "site_name": "Halfway Point",
+        "location": "Bicheno",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "15/04/2026",
+        "time": null,
+        "water_temp": 16.0,
+        "depth": "5.2&5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.31631,
+          -41.90329
+        ]
+      },
+      "properties": {
+        "site_code": "BI-S5",
+        "site_name": "Halfway Point",
+        "location": "Bicheno",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "15/04/2026",
+        "time": null,
+        "water_temp": 16.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.30344,
+          -41.86864
+        ]
+      },
+      "properties": {
+        "site_code": "BI-S3",
+        "site_name": "Waubs Bay",
+        "location": "Bicheno",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "17/04/2026",
+        "time": null,
+        "water_temp": 16.0,
+        "depth": "10.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.30344,
+          -41.86864
+        ]
+      },
+      "properties": {
+        "site_code": "BI-S3",
+        "site_name": "Waubs Bay",
+        "location": "Bicheno",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "18/04/2026",
+        "time": null,
+        "water_temp": 16.0,
+        "depth": "10.2&10.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.30344,
+          -41.86864
+        ]
+      },
+      "properties": {
+        "site_code": "BI-S3",
+        "site_name": "Waubs Bay",
+        "location": "Bicheno",
+        "area": "TAS",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "19/04/2026",
+        "time": null,
+        "water_temp": 16.0,
+        "depth": "10.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02939,
+          -37.99492
+        ]
+      },
+      "properties": {
+        "site_code": "PPB15",
+        "site_name": "Ricketts Pt",
+        "location": "Port Phillip Bay",
+        "area": "VIC",
+        "mpa": "Ricketts Point Marine Sanctuary",
+        "protection_status": "Fishing",
+        "date": "27/04/2026",
+        "time": "12:15:00 PM",
+        "water_temp": 17.0,
+        "depth": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02939,
+          -37.99492
+        ]
+      },
+      "properties": {
+        "site_code": "PPB15",
+        "site_name": "Ricketts Pt",
+        "location": "Port Phillip Bay",
+        "area": "VIC",
+        "mpa": "Ricketts Point Marine Sanctuary",
+        "protection_status": "Fishing",
+        "date": "27/04/2026",
+        "time": "12:15:00 PM",
+        "water_temp": 17.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02939,
+          -37.99492
+        ]
+      },
+      "properties": {
+        "site_code": "PPB15",
+        "site_name": "Ricketts Pt",
+        "location": "Port Phillip Bay",
+        "area": "VIC",
+        "mpa": "Ricketts Point Marine Sanctuary",
+        "protection_status": "Fishing",
+        "date": "27/04/2026",
+        "time": "12:15:00 PM",
+        "water_temp": 17.0,
+        "depth": "3.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.70789,
+          -35.12097
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S1",
+        "site_name": "Captains Pt",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Booderee National Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "1/05/2026",
+        "time": "12:30:00 PM",
+        "water_temp": 21.0,
+        "depth": "5.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.70789,
+          -35.12097
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S1",
+        "site_name": "Captains Pt",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Booderee National Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "1/05/2026",
+        "time": "12:30:00 PM",
+        "water_temp": 21.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.70789,
+          -35.12097
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S1",
+        "site_name": "Captains Pt",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Booderee National Park",
+        "protection_status": "Restricted take multizoned",
+        "date": "1/05/2026",
+        "time": "12:30:00 PM",
+        "water_temp": 21.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79224,
+          -35.07768
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S4",
+        "site_name": "The Docks 3 North Black Boat Cove",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "2/05/2026",
+        "time": "12:30:00 PM",
+        "water_temp": 21.0,
+        "depth": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79224,
+          -35.07768
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S4",
+        "site_name": "The Docks 3 North Black Boat Cove",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "2/05/2026",
+        "time": "12:30:00 PM",
+        "water_temp": 21.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79224,
+          -35.07768
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S4",
+        "site_name": "The Docks 3 North Black Boat Cove",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "2/05/2026",
+        "time": "12:30:00 PM",
+        "water_temp": 21.0,
+        "depth": "5.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.76486,
+          -35.0162
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S14",
+        "site_name": "GREEN POINT (GREEN ISLAND)",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "3/05/2026",
+        "time": "1:00:00 PM",
+        "water_temp": 20.0,
+        "depth": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.76486,
+          -35.0162
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S14",
+        "site_name": "GREEN POINT (GREEN ISLAND)",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "3/05/2026",
+        "time": "1:00:00 PM",
+        "water_temp": 20.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.76486,
+          -35.0162
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S14",
+        "site_name": "GREEN POINT (GREEN ISLAND)",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "No take multizoned",
+        "date": "3/05/2026",
+        "time": "1:00:00 PM",
+        "water_temp": 20.0,
+        "depth": "5.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79898,
+          -35.08773
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S26",
+        "site_name": "Outer Tubes",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "Habitat Protection",
+        "date": "4/05/2026",
+        "time": "10:00:00 AM",
+        "water_temp": 20.0,
+        "depth": "5.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79898,
+          -35.08773
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S26",
+        "site_name": "Outer Tubes",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "Habitat Protection",
+        "date": "4/05/2026",
+        "time": "10:00:00 AM",
+        "water_temp": 20.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79898,
+          -35.08773
+        ]
+      },
+      "properties": {
+        "site_code": "JBMP-S26",
+        "site_name": "Outer Tubes",
+        "location": "Jervis Bay",
+        "area": "NSW",
+        "mpa": "Jervis Bay Marine Park",
+        "protection_status": "Habitat Protection",
+        "date": "4/05/2026",
+        "time": "10:00:00 AM",
+        "water_temp": 20.0,
+        "depth": "5.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65005,
+          -11.76571
+        ]
+      },
+      "properties": {
+        "site_code": "GBR53",
+        "site_name": "Salamander Reef",
+        "location": "GBR - North",
+        "area": "QLD",
+        "mpa": "Great Barrier Reef MP",
+        "protection_status": "No take multizoned",
+        "date": "9/11/2026",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.7462769,
+          -11.22819996
+        ]
+      },
+      "properties": {
+        "site_code": "NT63",
+        "site_name": "Arafura Shoal",
+        "location": "Carpentaria",
+        "area": "NT",
+        "mpa": "Arafura MP",
+        "protection_status": "Fishing",
+        "date": "16/11/2025",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.71216,
+          -10.32259
+        ]
+      },
+      "properties": {
+        "site_code": "NT22",
+        "site_name": "Money Shoal E",
+        "location": "Arafura",
+        "area": "NT",
+        "mpa": "Arafura MP",
+        "protection_status": "Restricted take multizoned",
+        "date": "2/12/2025",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0992,
+          -10.89127
+        ]
+      },
+      "properties": {
+        "site_code": "OS7",
+        "site_name": "Marie Shoal",
+        "location": "Oceanic Shoals",
+        "area": "QLD",
+        "mpa": "Oceanic Shoals MP",
+        "protection_status": "Habitat Protection",
+        "date": "29/11/2025",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71759,
+          -10.28793
+        ]
+      },
+      "properties": {
+        "site_code": "TS7",
+        "site_name": "Seven Reefs east",
+        "location": "Torres Strait",
+        "area": "QLD",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "14/12/2025",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.47088,
+          -10.52637
+        ]
+      },
+      "properties": {
+        "site_code": "GC15",
+        "site_name": "Proudfoot Shoal",
+        "location": "West Cape York",
+        "area": "QLD",
+        "mpa": "0",
+        "protection_status": "Fishing",
+        "date": "12/12/2025",
+        "time": null,
+        "water_temp": null,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.53757,
+          -31.97427
+        ]
+      },
+      "properties": {
+        "site_code": "RI23",
+        "site_name": "Roe Reef",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "Restricted take multizoned",
+        "date": "5/09/2026",
+        "time": "4:21:00 PM",
+        "water_temp": 20.0,
+        "depth": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.53757,
+          -31.97427
+        ]
+      },
+      "properties": {
+        "site_code": "RI23",
+        "site_name": "Roe Reef",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "Restricted take multizoned",
+        "date": "5/09/2026",
+        "time": "4:21:00 PM",
+        "water_temp": 20.0,
+        "depth": "9,10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.53757,
+          -31.97427
+        ]
+      },
+      "properties": {
+        "site_code": "RI23",
+        "site_name": "Roe Reef",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "Restricted take multizoned",
+        "date": "5/09/2026",
+        "time": "4:21:00 PM",
+        "water_temp": 20.0,
+        "depth": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50014,
+          -32.01725
+        ]
+      },
+      "properties": {
+        "site_code": "RI1",
+        "site_name": "Green Island",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "No take multizoned",
+        "date": "5/10/2026",
+        "time": "1:21:00 PM",
+        "water_temp": 21.0,
+        "depth": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50014,
+          -32.01725
+        ]
+      },
+      "properties": {
+        "site_code": "RI1",
+        "site_name": "Green Island",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "No take multizoned",
+        "date": "5/10/2026",
+        "time": "1:21:00 PM",
+        "water_temp": 21.0,
+        "depth": "5,6.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50014,
+          -32.01725
+        ]
+      },
+      "properties": {
+        "site_code": "RI1",
+        "site_name": "Green Island",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "No take multizoned",
+        "date": "5/10/2026",
+        "time": "1:21:00 PM",
+        "water_temp": 21.0,
+        "depth": "6.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.52968,
+          -32.02575
+        ]
+      },
+      "properties": {
+        "site_code": "RI6",
+        "site_name": "Pocillopora Reef",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "No take multizoned",
+        "date": "5/11/2026",
+        "time": "1:05:00 PM",
+        "water_temp": 20.0,
+        "depth": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.52968,
+          -32.02575
+        ]
+      },
+      "properties": {
+        "site_code": "RI6",
+        "site_name": "Pocillopora Reef",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "No take multizoned",
+        "date": "5/11/2026",
+        "time": "1:05:00 PM",
+        "water_temp": 20.0,
+        "depth": "3,2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.52968,
+          -32.02575
+        ]
+      },
+      "properties": {
+        "site_code": "RI6",
+        "site_name": "Pocillopora Reef",
+        "location": "Rottnest Island",
+        "area": "WA",
+        "mpa": "Rottnest Island Marine Reserve",
+        "protection_status": "No take multizoned",
+        "date": "5/11/2026",
+        "time": "1:05:00 PM",
+        "water_temp": 20.0,
+        "depth": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75562,
+          -23.12142
+        ]
+      },
+      "properties": {
+        "site_code": "NMP2",
+        "site_name": "Point Maud Inner",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46239",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": "1.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75562,
+          -23.12142
+        ]
+      },
+      "properties": {
+        "site_code": "NMP2",
+        "site_name": "Point Maud Inner",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46239",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75562,
+          -23.12142
+        ]
+      },
+      "properties": {
+        "site_code": "NMP2",
+        "site_name": "Point Maud Inner",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46239",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": "2.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76328,
+          -23.20838
+        ]
+      },
+      "properties": {
+        "site_code": "NMP11",
+        "site_name": "Maud RZ2",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46240",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": "5.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76328,
+          -23.20838
+        ]
+      },
+      "properties": {
+        "site_code": "NMP11",
+        "site_name": "Maud RZ2",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46240",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76328,
+          -23.20838
+        ]
+      },
+      "properties": {
+        "site_code": "NMP11",
+        "site_name": "Maud RZ2",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46240",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": "6.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76328,
+          -23.20838
+        ]
+      },
+      "properties": {
+        "site_code": "NMP11",
+        "site_name": "Maud RZ2",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46240",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": "5.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76328,
+          -23.20838
+        ]
+      },
+      "properties": {
+        "site_code": "NMP11",
+        "site_name": "Maud RZ2",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46240",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76328,
+          -23.20838
+        ]
+      },
+      "properties": {
+        "site_code": "NMP11",
+        "site_name": "Maud RZ2",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46240",
+        "time": "12:30:00 PM",
+        "water_temp": 23.0,
+        "depth": "6.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76709,
+          -23.14221
+        ]
+      },
+      "properties": {
+        "site_code": "NMP21",
+        "site_name": "Coral Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46241",
+        "time": "12:30:00 PM",
+        "water_temp": 22.0,
+        "depth": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76709,
+          -23.14221
+        ]
+      },
+      "properties": {
+        "site_code": "NMP21",
+        "site_name": "Coral Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46241",
+        "time": "12:30:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76709,
+          -23.14221
+        ]
+      },
+      "properties": {
+        "site_code": "NMP21",
+        "site_name": "Coral Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46241",
+        "time": "12:30:00 PM",
+        "water_temp": 22.0,
+        "depth": "1.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76709,
+          -23.14221
+        ]
+      },
+      "properties": {
+        "site_code": "NMP21",
+        "site_name": "Coral Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46241",
+        "time": "12:30:00 PM",
+        "water_temp": 22.0,
+        "depth": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76709,
+          -23.14221
+        ]
+      },
+      "properties": {
+        "site_code": "NMP21",
+        "site_name": "Coral Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46241",
+        "time": "12:30:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76709,
+          -23.14221
+        ]
+      },
+      "properties": {
+        "site_code": "NMP21",
+        "site_name": "Coral Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46241",
+        "time": "12:30:00 PM",
+        "water_temp": 22.0,
+        "depth": "1.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.39077,
+          -21.63678
+        ]
+      },
+      "properties": {
+        "site_code": "NWS157",
+        "site_name": "North Muiron Island NE",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46244",
+        "time": "1:00:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.39077,
+          -21.63678
+        ]
+      },
+      "properties": {
+        "site_code": "NWS157",
+        "site_name": "North Muiron Island NE",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46244",
+        "time": "1:00:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.39077,
+          -21.63678
+        ]
+      },
+      "properties": {
+        "site_code": "NWS157",
+        "site_name": "North Muiron Island NE",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46244",
+        "time": "1:00:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.39077,
+          -21.63678
+        ]
+      },
+      "properties": {
+        "site_code": "NWS157",
+        "site_name": "North Muiron Island NE",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46244",
+        "time": "1:00:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.39077,
+          -21.63678
+        ]
+      },
+      "properties": {
+        "site_code": "NWS157",
+        "site_name": "North Muiron Island NE",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46244",
+        "time": "1:00:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.39077,
+          -21.63678
+        ]
+      },
+      "properties": {
+        "site_code": "NWS157",
+        "site_name": "North Muiron Island NE",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46244",
+        "time": "1:00:00 PM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.88472,
+          -22.09786
+        ]
+      },
+      "properties": {
+        "site_code": "NMP22",
+        "site_name": "Turquoise Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef - North",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46245",
+        "time": "10:00:00 AM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.88472,
+          -22.09786
+        ]
+      },
+      "properties": {
+        "site_code": "NMP22",
+        "site_name": "Turquoise Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef - North",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46245",
+        "time": "10:00:00 AM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.88472,
+          -22.09786
+        ]
+      },
+      "properties": {
+        "site_code": "NMP22",
+        "site_name": "Turquoise Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef - North",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46245",
+        "time": "10:00:00 AM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.88472,
+          -22.09786
+        ]
+      },
+      "properties": {
+        "site_code": "NMP22",
+        "site_name": "Turquoise Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef - North",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46245",
+        "time": "10:00:00 AM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.88472,
+          -22.09786
+        ]
+      },
+      "properties": {
+        "site_code": "NMP22",
+        "site_name": "Turquoise Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef - North",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46245",
+        "time": "10:00:00 AM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.88472,
+          -22.09786
+        ]
+      },
+      "properties": {
+        "site_code": "NMP22",
+        "site_name": "Turquoise Bay (Sanctuary zone)",
+        "location": "Ningaloo Reef - North",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46245",
+        "time": "10:00:00 AM",
+        "water_temp": 22.0,
+        "depth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15813,
+          -21.86971
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-B5",
+        "site_name": "Sth Bundegi",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46247",
+        "time": "9:30:00 AM",
+        "water_temp": 20.0,
+        "depth": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15813,
+          -21.86971
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-B5",
+        "site_name": "Sth Bundegi",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46247",
+        "time": "9:30:00 AM",
+        "water_temp": 20.0,
+        "depth": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15813,
+          -21.86971
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-B5",
+        "site_name": "Sth Bundegi",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46247",
+        "time": "9:30:00 AM",
+        "water_temp": 20.0,
+        "depth": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15813,
+          -21.86971
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-B5",
+        "site_name": "Sth Bundegi",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46247",
+        "time": "9:30:00 AM",
+        "water_temp": 20.0,
+        "depth": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15813,
+          -21.86971
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-B5",
+        "site_name": "Sth Bundegi",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46247",
+        "time": "9:30:00 AM",
+        "water_temp": 20.0,
+        "depth": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15813,
+          -21.86971
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-B5",
+        "site_name": "Sth Bundegi",
+        "location": "Exmouth",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46247",
+        "time": "9:30:00 AM",
+        "water_temp": 20.0,
+        "depth": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75232,
+          -23.12872
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-S3",
+        "site_name": "Coral Bay DEC1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46236",
+        "time": "12:00:00 PM",
+        "water_temp": 21.0,
+        "depth": "6&6.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75232,
+          -23.12872
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-S3",
+        "site_name": "Coral Bay DEC1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46236",
+        "time": "12:00:00 PM",
+        "water_temp": 21.0,
+        "depth": "6.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75232,
+          -23.12872
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-S3",
+        "site_name": "Coral Bay DEC1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46236",
+        "time": "12:00:00 PM",
+        "water_temp": 21.0,
+        "depth": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75232,
+          -23.12872
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-S3",
+        "site_name": "Coral Bay DEC1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46236",
+        "time": "12:00:00 PM",
+        "water_temp": 21.0,
+        "depth": "6&6.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75232,
+          -23.12872
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-S3",
+        "site_name": "Coral Bay DEC1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46236",
+        "time": "12:00:00 PM",
+        "water_temp": 21.0,
+        "depth": "6.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75232,
+          -23.12872
+        ]
+      },
+      "properties": {
+        "site_code": "NMP-S3",
+        "site_name": "Coral Bay DEC1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46236",
+        "time": "12:00:00 PM",
+        "water_temp": 21.0,
+        "depth": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76158,
+          -23.12627
+        ]
+      },
+      "properties": {
+        "site_code": "NMP9",
+        "site_name": "Bills Bay 1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46237",
+        "time": "12:00:00 PM",
+        "water_temp": 22.0,
+        "depth": "2.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76158,
+          -23.12627
+        ]
+      },
+      "properties": {
+        "site_code": "NMP9",
+        "site_name": "Bills Bay 1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46237",
+        "time": "12:00:00 PM",
+        "water_temp": 22.0,
+        "depth": "2.9&3.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76158,
+          -23.12627
+        ]
+      },
+      "properties": {
+        "site_code": "NMP9",
+        "site_name": "Bills Bay 1",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46237",
+        "time": "12:00:00 PM",
+        "water_temp": 22.0,
+        "depth": "3.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.73966,
+          -23.09197
+        ]
+      },
+      "properties": {
+        "site_code": "NMP19",
+        "site_name": "Maud SZ Nth",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46238",
+        "time": "1:00:00 PM",
+        "water_temp": 23.0,
+        "depth": "2.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.73966,
+          -23.09197
+        ]
+      },
+      "properties": {
+        "site_code": "NMP19",
+        "site_name": "Maud SZ Nth",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46238",
+        "time": "1:00:00 PM",
+        "water_temp": 23.0,
+        "depth": "2.6&2.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.73966,
+          -23.09197
+        ]
+      },
+      "properties": {
+        "site_code": "NMP19",
+        "site_name": "Maud SZ Nth",
+        "location": "Ningaloo Reef",
+        "area": "WA",
+        "mpa": "Ningaloo Marine Park",
+        "protection_status": "No Take",
+        "date": "46238",
+        "time": "1:00:00 PM",
+        "water_temp": 23.0,
+        "depth": "2.3"
+      }
+    }
+  ]
+}

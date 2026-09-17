@@ -5,8 +5,8 @@ import json
 # SETTINGS
 # -----------------------------
 
-input_csv = "input.csv"
-output_geojson = "output.geojson"
+input_csv = "convert/Sites_RLSeDNA_september_update.csv"
+output_geojson = "eDNA_sites_september_update.geojson"
 
 # Change these if your CSV uses different column names
 latitude_column = "latitude"
